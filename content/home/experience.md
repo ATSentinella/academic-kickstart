@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "UNSW Sydney"
   company_url = ""
   location = "Sydney"
-  date_start = "2017"
-  date_end = "2019"
+  date_start = "2017-01-01"
+  date_end = "2019-01-01"
   description = """
   Responsibilities include:
   
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "School of Biological, Earth and Environmental Studies, UNSW Sydney"
   company_url = ""
   location = "Sydney"
-  date_start = "2014"
-  date_end = "2017"
+  date_start = "2014-01-01"
+  date_end = "2017-01-01"
   description = """
   Responsibilities include:
   
@@ -52,8 +52,8 @@ date_format = "Jan 2006"
   company = "School of Biological, Earth and Environmental Studies, UNSW Sydney"
   company_url = ""
   location = "Sydney"
-  date_start = "2012"
-  date_end = "2014"
+  date_start = "2012-01-01"
+  date_end = "2014-01-01"
   description = """
   Responsibilities include:
   
@@ -61,5 +61,4 @@ date_format = "Jan 2006"
   * Administrative support
   * Front desk reception
   """
-
 +++
