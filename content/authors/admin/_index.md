@@ -15,7 +15,7 @@ role: PhD Researcher in Macroecology and Molecular Ecology
 # Organizations/Affiliations
 organizations:
 - name: UNSW Sydney
-url: "https://www.bees.unsw.edu.au/alex-sentinella"
+url: "www.bees.unsw.edu.au/alex-sentinella"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include macroecology, landscape genetics and plants.
