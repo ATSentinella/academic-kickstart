@@ -1,10 +1,9 @@
-
 ---
-title: "Dietary protein mediates a trade‐off between larval survival and the development of male secondary sexual traits"
+title: "Dietary protein mediates a trade-off between larval survival and the development of male secondary sexual traits"
 authors:
 - admin
 date: ""
-doi: "10.1111/1365-2435.12104"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,6 +17,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "Functional Ecology"
 publication_short: ""
+abstract:
 1. Increased protein intake by adults typically enhances reproduction and shortens life, but much less is known about the effects of protein intake prior to reproductive maturity. In particular, it remains unclear whether dietary protein mediates a trade‐off between survival and the development of reproductive traits, especially in males.
 2. We used the nutritional geometry approach to investigate the effects of 25 replicated larval diets varying in protein and carbohydrate content on larval performance and the development of adult male morphology in the neriid fly Telostylinus angusticollis.
 3. We found that body size increased with carbohydrate and especially protein content in the larval diet. Moreover, after controlling for body size, dietary protein strongly enhanced the expression of those male morphological traits that appear to be most directly targeted by sexual selection, while having no effect on the expression of other traits. In sharp contrast, egg‐to‐adult viability decreased steeply with increasing protein content.
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2435.12104
+url_pdf: 'https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2435.12104'
 url_code: ''
 url_dataset: ''
 url_poster: ''
